@@ -32,7 +32,4 @@ The **Student Management System** is a web-based application designed to streaml
 
 ---
 
-## Installation
-1. Clone the repository:
-   ```bash
-   
+
